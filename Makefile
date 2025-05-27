@@ -1,5 +1,5 @@
+# SPDX-Identifier-License: GPL-3.0
 # Copyright 2024 MOSSDeF, Stan Grishin (stangri@melmac.ca).
-# This is free software, licensed under the GPL-3.0 License.
 
 include $(TOPDIR)/rules.mk
 
