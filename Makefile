@@ -1,4 +1,4 @@
-# SPDX-Identifier-License: GPL-3.0
+# SPDX-License-Identifier: GPL-3.0
 # Copyright 2024 MOSSDeF, Stan Grishin (stangri@melmac.ca).
 
 include $(TOPDIR)/rules.mk
